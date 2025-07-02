@@ -44,5 +44,3 @@ Se precisar de ajuda com a personalização:
 1. Consulte a documentação do [Font Awesome](https://fontawesome.com/) para ícones
 2. Use o [Google Fonts](https://fonts.google.com/) para outras fontes
 3. Teste a responsividade com as ferramentas de desenvolvedor do navegador
-
-aaaaaaaaaa
