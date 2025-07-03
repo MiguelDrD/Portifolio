@@ -335,7 +335,7 @@ body {
 
 .floating-element:nth-child(1) {
     top: 10%;
-    right: 10%;
+    right: 15%;
 }
 
 .floating-element:nth-child(2) {
@@ -344,8 +344,8 @@ body {
 }
 
 .floating-element:nth-child(3) {
-    top: 50%;
-    right: -10%;
+    top: 85%;
+    right: 20%;
 }
 
 .floating-element i {
