@@ -341,13 +341,18 @@ body {
 }
 
 .floating-element:nth-child(2) {
-    bottom: 20%;
-    left: 10%;
+    bottom: 10%;
+    left: 15%;
 }
 
 .floating-element:nth-child(3) {
     top: 85%;
     right: 20%;
+}
+
+.floating-element:nth-child(4) {
+    top: 0%;
+    right: 65%;
 }
 
 .floating-element i {
