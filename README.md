@@ -4,7 +4,7 @@ Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvi
 
 
 <div align="center">
-    <img src="./Img/Readme do meu portifólio.png" alt="Imagem do meu projeto">
+    <img src="assets/Img/Readme do meu portifólio.png" alt="Imagem do meu projeto">
 </div>
 
 
