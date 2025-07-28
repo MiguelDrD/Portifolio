@@ -128,6 +128,9 @@ body {
     color: var(--accent-primary);
 }
 
+
+
+
 .nav-menu {
     display: flex;
     list-style: none;
@@ -233,6 +236,34 @@ body {
 }
 
 
+.hero-subtitle {
+  color: #b5b5b5a4; /* Adjust this color to change intensity/style */
+  background: linear-gradient(
+    120deg,
+    rgb(0, 0, 0) 40%,
+    rgb(255, 255, 255) 50%,
+    rgb(0, 0, 0) 60%
+  );
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  display: inline-block;
+  animation: shine 5s linear infinite;
+}
+
+@keyframes shine {
+  0% {
+    background-position: 100%;
+  }
+  100% {
+    background-position: -100%;
+  }
+}
+
+.hero-subtitle.disabled {
+  animation: none;
+}
+
 
 .hero-description {
     font-size: 1.1rem;
@@ -314,6 +345,8 @@ body {
     color: var(--text-muted);
     font-size: 0.9rem;
 }
+
+
 
 .floating-elements {
     position: absolute;
