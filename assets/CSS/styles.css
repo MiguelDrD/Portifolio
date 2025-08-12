@@ -237,7 +237,7 @@ body {
 
 
 .hero-subtitle {
-  color: #b5b5b5a4; /* Adjust this color to change intensity/style */
+  color: #b5b5b5a4;
   background: linear-gradient(
     120deg,
     rgb(0, 0, 0) 40%,
