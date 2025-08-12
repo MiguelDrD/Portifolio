@@ -231,24 +231,19 @@ body {
 .hero-subtitle {
     font-size: 1.5rem;
     margin-bottom: 1.5rem;
-    color: var(--text-secondary);
     font-weight: 500;
-}
-
-
-.hero-subtitle {
-  color: #b5b5b5a4;
-  background: linear-gradient(
-    120deg,
-    rgb(0, 0, 0) 40%,
-    rgb(255, 255, 255) 50%,
-    rgb(0, 0, 0) 60%
-  );
-  background-size: 200% 100%;
-  -webkit-background-clip: text;
-  background-clip: text;
-  display: inline-block;
-  animation: shine 5s linear infinite;
+    color: #b5b5b5a4;
+    background: linear-gradient(
+      120deg,
+      rgb(0, 0, 0) 40%,
+      rgb(255, 255, 255) 50%,
+      rgb(0, 0, 0) 60%
+    );
+    background-size: 200% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    display: inline-block;
+    animation: shine 5s linear infinite;
 }
 
 @keyframes shine {
